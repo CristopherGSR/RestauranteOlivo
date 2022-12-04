@@ -1,1 +1,1 @@
-web : gunicorn CapanioStore.wsgi --log-file -
+web : gunicorn capaniostore.wsgi --log-file -
